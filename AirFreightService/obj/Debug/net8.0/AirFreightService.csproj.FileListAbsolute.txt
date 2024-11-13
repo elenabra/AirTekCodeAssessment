@@ -1,0 +1,14 @@
+D:\AirTek\AirFreightService\bin\Debug\net8.0\AirFreightService.exe
+D:\AirTek\AirFreightService\bin\Debug\net8.0\AirFreightService.deps.json
+D:\AirTek\AirFreightService\bin\Debug\net8.0\AirFreightService.runtimeconfig.json
+D:\AirTek\AirFreightService\bin\Debug\net8.0\AirFreightService.dll
+D:\AirTek\AirFreightService\bin\Debug\net8.0\AirFreightService.pdb
+D:\AirTek\AirFreightService\obj\Debug\net8.0\AirFreightService.GeneratedMSBuildEditorConfig.editorconfig
+D:\AirTek\AirFreightService\obj\Debug\net8.0\AirFreightService.AssemblyInfoInputs.cache
+D:\AirTek\AirFreightService\obj\Debug\net8.0\AirFreightService.AssemblyInfo.cs
+D:\AirTek\AirFreightService\obj\Debug\net8.0\AirFreightService.csproj.CoreCompileInputs.cache
+D:\AirTek\AirFreightService\obj\Debug\net8.0\AirFreightService.dll
+D:\AirTek\AirFreightService\obj\Debug\net8.0\refint\AirFreightService.dll
+D:\AirTek\AirFreightService\obj\Debug\net8.0\AirFreightService.pdb
+D:\AirTek\AirFreightService\obj\Debug\net8.0\AirFreightService.genruntimeconfig.cache
+D:\AirTek\AirFreightService\obj\Debug\net8.0\ref\AirFreightService.dll
